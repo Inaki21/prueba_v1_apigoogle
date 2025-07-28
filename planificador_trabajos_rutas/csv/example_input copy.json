@@ -1,0 +1,46 @@
+{
+   "mes" : "Agosto",
+   "tecnicos": [
+      1,
+      2,
+      3,
+      4
+   ],
+   "localizaciones": [
+      {
+         "id_instalacion": 1,
+         "localidad": "Haro",
+         "lat": 42.5681060494229,
+         "lon": -2.858152511919005,
+         "tiempo": 0.5
+      },
+      {
+         "id_instalacion": 3,
+         "localidad": "Vitoria",
+         "lat": 42.433119817282204,
+         "lon": -2.950749636445161,
+         "tiempo": 6.0
+      },
+      {
+         "id_instalacion": 4,
+         "localidad": "Haro",
+         "lat": 42.88702626937825,
+         "lon": -2.639513912965261,
+         "tiempo": 0.5
+      },
+      {
+         "id_instalacion": 5,
+         "localidad": "Agoncillo",
+         "lat": 42.56905422294487,
+         "lon": -2.8582383426018674,
+         "tiempo": 0.5
+      },
+      {
+         "id_instalacion": 7,
+         "localidad": "Sesma",
+         "lat": 42.889614724865645,
+         "lon": -2.138824319888948,
+         "tiempo": 6.0
+      }
+   ]
+}
